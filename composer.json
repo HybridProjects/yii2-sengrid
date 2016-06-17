@@ -1,0 +1,21 @@
+{
+    "name": "senglenn/yii2-sengrid",
+    "description": "Enhanced Grid View for Yii2 with Ajax pagination and various utilities for accounting software made with Yii2.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","grid","view"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Glenn Gevero",
+            "email": "geveroglenn@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "HybridProjects\\sengrid\\": ""
+        }
+    }
+}
